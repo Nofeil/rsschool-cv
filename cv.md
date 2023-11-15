@@ -20,7 +20,7 @@ function multiply(a, b){
 ```
 
 ## Projects
-[CV](@link)
+[CV](https://nofeil.github.io/rsschool-cv/cv)
 
 ## Education
 [CS50 course](https://www.youtube.com/@cs50/playlists);
